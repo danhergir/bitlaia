@@ -1,0 +1,23 @@
+.text-subtitle {
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.text-descriptive {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.button-hover:hover {
+    background-color: #e3f2fd;
+}
+
+.button-invest {
+    background-color: #e3f2fd;
+    color:#007bff;
+}
+
+.card-content {
+    box-shadow: 1px 1px 1px 1px #888888;
+}
+
+
